@@ -5,7 +5,7 @@
 
 echo "Starting ol services."
 
-# TODO: why is appear not necessary?
+# TODO: why does nginx appear not necessary?
 #echo "Starting nginx"
 #service nginx restart
 
